@@ -4,6 +4,7 @@ function js2()
     {
         if( (i % 3 == 0) && (i % 5 == 0))
         {
+
             console.log("Hee-Haw!");
         }
         else if(i % 3 == 0)
@@ -17,6 +18,7 @@ function js2()
         else
         {
             console.log(i);
+
         }
     }
 }
