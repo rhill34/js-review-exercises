@@ -1,0 +1,38 @@
+<!-----------------------
+   Title: JS Review Exercise -> Chapter 4
+   Author: Robert Hill, III
+   Date: 04.20.2019
+   Code version: 1.0
+   Availability: http://rhill.greenriverdev.com/328/js-review-exercises/array-object.html
+
+   ------------------------->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS4</title>
+    <script src="js/array-object.js"></script>
+</head>
+<body>
+<header>
+    <h1>JavaScript Exercises for IT328</h1>
+</header>
+<article>
+    <h2>JavaScript Review</h2>
+    <section>
+        <h2>Chapter 4 - Array to Object</h2>
+        <p>This function convert the array into an object with properties containing the array values grouped by type</p>
+        <h4>For example Given this array as input</h4>
+        <pre id="letIn"></pre>
+        <p>The function returns the following object (to String)</p>
+        <pre id="letOut"></pre>
+        <!--input here-->
+    </section>
+</article>
+<script>
+    let ins = [-1,5,"cat",false, 10.2,true,"dog"];
+    document.getElementById("letIn").innerHTML = ins.toString();
+    js4(ins);
+</script>
+</body>
+</html>
