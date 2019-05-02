@@ -1,0 +1,57 @@
+{
+  "_title": "JS Review Exercise->Chapter 5->Five.json file(should be 6)",
+  "_author": "Robert Hill",
+  "_date": "05/01/2019",
+  "_codeVersion": "1.0",
+  "_availability": "https://github.com/rhill34/js-review-exercises/five.json",
+  "people": [
+    {
+      "name": "Robert Hill",
+      "sex": "male",
+      "born": "1983-08-09",
+      "died": "3183-04-01",
+      "mother": "Mom",
+      "father": "Dad"
+    },
+    {
+      "name": "Kim Hill",
+      "sex": "female",
+      "born": "1950-02-11",
+      "died": "3182-04-32",
+      "mother": "Grams",
+      "father": "Boss"
+    },
+    {
+      "name": "Jane Doe",
+      "sex": "female",
+      "born": "1988-06-04",
+      "died": "2100-04-32",
+      "mother": "Bob",
+      "father": "Regine"
+    },
+    {
+      "name": "Rupert Hill",
+      "sex": "male",
+      "born": "1983-08-09",
+      "died": "3183-04-01",
+      "mother": "Mama",
+      "father": "Griffith"
+    },
+    {
+      "name": "Kimberly Hill",
+      "sex": "female",
+      "born": "1950-02-11",
+      "died": "3182-04-32",
+      "mother": "Deb",
+      "father": "Roger"
+    },
+    {
+      "name": "John Doe",
+      "sex": "male",
+      "born": "1988-06-04",
+      "died": "2100-04-32",
+      "mother": "Mystery",
+      "father": "Harry"
+    }
+  ]
+}
